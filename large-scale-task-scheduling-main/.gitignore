@@ -1,0 +1,21 @@
+# Compiled executables
+*.exe
+*.out
+
+# Compiled object files
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+
+# Temporary files
+*.tmp
+
+# VS Code workspace settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
